@@ -1,0 +1,23 @@
+﻿# Visual Studio / .NET
+.vs/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.nupkg
+*.dotCover
+*.opendb
+_ReSharper*/
+*.ide
+packages/
+*.log
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+
+# Rider
+*.sln.iml
